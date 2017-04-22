@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">HB</string>
+    <string name="app_name">Horse</string>
 
     <string name="UPDATE_ERROR_AUTHORIZATION_FAILED_TITLE">Authorization Error</string>
     <string name="UPDATE_ERROR_PROJECT_SUSPENDED_TITLE">Authorization Error</string>

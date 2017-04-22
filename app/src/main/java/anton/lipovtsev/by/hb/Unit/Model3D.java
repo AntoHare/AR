@@ -90,7 +90,7 @@ public class Model3D {
                     material.setColorInfluence(0);
 
                     mObject3D.setRotY(30);
-                    mObject3D.setY(-2.5);
+                    mObject3D.setY(2.5);
                     mObject3D.setX(1);
                     mObject3D.setZ(0);
 
