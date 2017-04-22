@@ -92,7 +92,7 @@ public class Model3D {
                     mObject3D.setRotY(30);
                     mObject3D.setY(-2.5);
                     mObject3D.setX(1);
-                    mObject3D.setZ(-1.5);
+                    mObject3D.setZ(0);
 
                     mObject3D.setMaterial(material);
                     break;

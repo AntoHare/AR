@@ -52,18 +52,18 @@ public class ImageTargetActivity extends BaseVuforiaActivity implements View.OnC
 // set show models
         arrayList = new ArrayList<>();
 
-        tempM3D = new Model3D(this, R.raw.video);
+        /*tempM3D = new Model3D(this, R.raw.video);
         tempM3D.setMODE(Model3D.LOAD_VIDEO_PLANE);
         tempM3D.setObj_scale(12.0f);
         tempM3D.setObj_translate_x(0.0f);
         tempM3D.setObj_translate_y(0.0f);
         tempM3D.setObj_rotate_angle(180.0f);
-        tempM3D.setObj_rotate_y(90.0f);
+        tempM3D.setObj_rotate_y(90.0f);*/
 
-        arrayList.add(tempM3D);
+        //arrayList.add(tempM3D);
 
-        tempM3D = new Model3D(this, R.raw.cat);
-        tempM3D.setObj_scale(30f);
+        tempM3D = new Model3D(this, R.raw.horse);
+        tempM3D.setObj_scale(10f);
         tempM3D.setObj_rotate_angle(90.0f);
 
         arrayList.add(tempM3D);
